@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/okpoEkpenyong.github.io/vesoft.web/static/css/main.88a809e3.chunk.css",
+    "main.js": "/okpoEkpenyong.github.io/vesoft.web/static/js/main.f8dd8ccc.chunk.js",
+    "main.js.map": "/okpoEkpenyong.github.io/vesoft.web/static/js/main.f8dd8ccc.chunk.js.map",
+    "runtime-main.js": "/okpoEkpenyong.github.io/vesoft.web/static/js/runtime-main.518712a0.js",
+    "runtime-main.js.map": "/okpoEkpenyong.github.io/vesoft.web/static/js/runtime-main.518712a0.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/okpoEkpenyong.github.io/vesoft.web/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a2dee068.chunk.js": "/okpoEkpenyong.github.io/vesoft.web/static/js/2.a2dee068.chunk.js",
+    "static/js/2.a2dee068.chunk.js.map": "/okpoEkpenyong.github.io/vesoft.web/static/js/2.a2dee068.chunk.js.map",
+    "index.html": "/okpoEkpenyong.github.io/vesoft.web/index.html",
+    "precache-manifest.b93dac4e8c5840a5f6f85ae2cc5c15a3.js": "/okpoEkpenyong.github.io/vesoft.web/precache-manifest.b93dac4e8c5840a5f6f85ae2cc5c15a3.js",
+    "service-worker.js": "/okpoEkpenyong.github.io/vesoft.web/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/okpoEkpenyong.github.io/vesoft.web/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.88a809e3.chunk.css.map": "/okpoEkpenyong.github.io/vesoft.web/static/css/main.88a809e3.chunk.css.map",
+    "static/js/2.a2dee068.chunk.js.LICENSE": "/okpoEkpenyong.github.io/vesoft.web/static/js/2.a2dee068.chunk.js.LICENSE",
+    "static/media/App.css": "/okpoEkpenyong.github.io/vesoft.web/static/media/vesoft_wwd.13f04b45.png",
+    "static/media/internet.svg": "/okpoEkpenyong.github.io/vesoft.web/static/media/internet.6c9295dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.518712a0.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a2dee068.chunk.js",
+    "static/css/main.88a809e3.chunk.css",
+    "static/js/main.f8dd8ccc.chunk.js"
+  ]
+}
