@@ -1,14 +1,11 @@
 // login.js
 import React from 'react'
 
-function Login() {
+ const Login = () => {
   const [state, setState] = React.useReducer((s, a) => ({...s, ...a}), {
-    resolved: false,
-    loading: false,
-    error: null,
-  })
+    resolved: false, loading: false, error: null,})
 
-  function handleSubmit(event) {
+  const handleSubmit = (event) => {
     event.preventDefault()
     const {usernameInput, passwordInput} = event.target.elements
 
@@ -18,11 +15,7 @@ function Login() {
       .fetch('/api/login', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({
-          username: usernameInput.value,
-          password: passwordInput.value,
-        }),
-      })
+        body: JSON.stringify({ username: usernameInput.value, password: passwordInput.value, }), })
       .then(r => r.json())
       .then(
         user => {
