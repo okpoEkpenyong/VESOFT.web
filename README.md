@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.com/okpoEkpenyong/VESOFT.web.svg?branch=develop)](https://travis-ci.com/okpoEkpenyong/VESOFT.web)
-[![Coverage Status](https://coveralls.io/repos/github/okpoEkpenyong/VESOFT.web/badge.svg?branch=develop)](https://coveralls.io/github/okpoEkpenyong/VESOFT.web?branch=develop)
-[![Maintainability](https://api.codeclimate.com/v1/badges/ccb9dca61c45971e630f/maintainability)](https://codeclimate.com/github/okpoEkpenyong/VESOFT.web/maintainability)
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
