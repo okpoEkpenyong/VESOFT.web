@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/okpoEkpenyong.github.io/vesoft.web/static/css/main.d1b05096.chunk.css",
-    "main.js": "/okpoEkpenyong.github.io/vesoft.web/static/js/main.fee4f542.chunk.js",
-    "main.js.map": "/okpoEkpenyong.github.io/vesoft.web/static/js/main.fee4f542.chunk.js.map",
-    "runtime-main.js": "/okpoEkpenyong.github.io/vesoft.web/static/js/runtime-main.518712a0.js",
-    "runtime-main.js.map": "/okpoEkpenyong.github.io/vesoft.web/static/js/runtime-main.518712a0.js.map",
-    "static/js/2.05de01fd.chunk.js": "/okpoEkpenyong.github.io/vesoft.web/static/js/2.05de01fd.chunk.js",
-    "static/js/2.05de01fd.chunk.js.map": "/okpoEkpenyong.github.io/vesoft.web/static/js/2.05de01fd.chunk.js.map",
-    "index.html": "/okpoEkpenyong.github.io/vesoft.web/index.html",
-    "precache-manifest.e135620955c021ff09af8bdd7c1745d4.js": "/okpoEkpenyong.github.io/vesoft.web/precache-manifest.e135620955c021ff09af8bdd7c1745d4.js",
-    "service-worker.js": "/okpoEkpenyong.github.io/vesoft.web/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/okpoEkpenyong.github.io/vesoft.web/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.05de01fd.chunk.js.LICENSE": "/okpoEkpenyong.github.io/vesoft.web/static/js/2.05de01fd.chunk.js.LICENSE",
-    "static/media/logo.svg": "/okpoEkpenyong.github.io/vesoft.web/static/media/logo.5d5d9eef.svg"
+    "main.css": "/vesoft.web/static/css/main.d39bda42.chunk.css",
+    "main.js": "/vesoft.web/static/js/main.324a7d37.chunk.js",
+    "main.js.map": "/vesoft.web/static/js/main.324a7d37.chunk.js.map",
+    "runtime-main.js": "/vesoft.web/static/js/runtime-main.9efbfdc1.js",
+    "runtime-main.js.map": "/vesoft.web/static/js/runtime-main.9efbfdc1.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/vesoft.web/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a2dee068.chunk.js": "/vesoft.web/static/js/2.a2dee068.chunk.js",
+    "static/js/2.a2dee068.chunk.js.map": "/vesoft.web/static/js/2.a2dee068.chunk.js.map",
+    "index.html": "/vesoft.web/index.html",
+    "precache-manifest.1148f29c7b08aeeaf4ce06aa91182bac.js": "/vesoft.web/precache-manifest.1148f29c7b08aeeaf4ce06aa91182bac.js",
+    "service-worker.js": "/vesoft.web/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/vesoft.web/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d39bda42.chunk.css.map": "/vesoft.web/static/css/main.d39bda42.chunk.css.map",
+    "static/js/2.a2dee068.chunk.js.LICENSE": "/vesoft.web/static/js/2.a2dee068.chunk.js.LICENSE",
+    "static/media/App.css": "/vesoft.web/static/media/vesoft_wwd.13f04b45.png",
+    "static/media/internet.svg": "/vesoft.web/static/media/internet.6c9295dc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.518712a0.js",
-    "static/js/2.05de01fd.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.fee4f542.chunk.js"
+    "static/js/runtime-main.9efbfdc1.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a2dee068.chunk.js",
+    "static/css/main.d39bda42.chunk.css",
+    "static/js/main.324a7d37.chunk.js"
   ]
 }
